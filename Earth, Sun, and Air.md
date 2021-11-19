@@ -33,7 +33,7 @@ Currently  you can buy their [$CITIZEN](https://www.dextools.io/app/ether/pair-e
 They also have KongCash (pictured above) which is a physical, flexible pcb board that you can redeem for ETH after a certain date. In effect it operates like a traditional currency on the gold or silver standard but its ETH backed instead.
 
 ___
-Theres more and more of these schemes popping up like [Prospera](https://en.wikipedia.org/wiki/Pr%C3%B3spera) in Honduras (another Silicon Valley funded SEZ style one but they dont have anything like a token yet afaik) and the state of Nevada, USA which recently declared that [companies can buy up land and form their own county level government](https://www.bbc.com/news/world-us-canada-56409924).
+There's more and more of these schemes popping up like [Prospera](https://en.wikipedia.org/wiki/Pr%C3%B3spera) in Honduras (another Silicon Valley funded SEZ style one but they dont have anything like a token yet afaik) and the state of Nevada, USA which recently declared that [companies can buy up land and form their own county level government](https://www.bbc.com/news/world-us-canada-56409924).
 
 The main framework underlying all of these to varying degrees, seems to be ```pay a existing sovereign to borrow some of their legitimacy```. This concept was outlined 20+ years ago in [_The Sovereign Individual_](https://www.lopp.net/pdf/The%20Sovereign%20Individual.pdf). 
 
