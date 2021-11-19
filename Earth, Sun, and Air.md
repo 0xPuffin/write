@@ -31,7 +31,7 @@ They also have KongCash (pictured above) which is a physical flexible pcb board 
 ___
 Theres more and more of these schemes poping up like [Prospera](https://en.wikipedia.org/wiki/Pr%C3%B3spera) in Honduras (another Silicon Valley funded SEZ style one but they dont have anything like a token yet afaik) and The state of Nevada, USA which recently declared that [companies can buy up land and form their own county level government](https://www.bbc.com/news/world-us-canada-56409924).
 
-The main framework underlying all of these to different degrees seems to be ```pay a existing sovereign to borrow some of their legitimatcy```. This concept was outlined 20+ years ago in [The Soverign Individual](https://www.lopp.net/pdf/The%20Sovereign%20Individual.pdf). 
+The main framework underlying all of these to different degrees seems to be ```pay a existing sovereign to borrow some of their legitimacy```. This concept was outlined 20+ years ago in [The Soverign Individual](https://www.lopp.net/pdf/The%20Sovereign%20Individual.pdf). 
 
 I've applied to basically all of these in some various capacity and believe that at the very least anyone whose made money this bullrun should try and hedge into at least one or buy a second citizenship in a existing state if you dont have a few already (read _The Soverign Individual_ if you dont understand why this is important). If not already occupied by other projects this is what i would be working on. Decentralizing finance is a  great place to start but the future seems much darker until soverign power, production capacity, and humanity itself are decentralized.
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Spacecolony3edit.jpeg/1920px-Spacecolony3edit.jpeg)
