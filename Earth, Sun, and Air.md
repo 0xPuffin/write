@@ -1,11 +1,15 @@
 # Earth, Sun, and Air
-Theres recently been a lot of activity on bringing dao ownership styles into the IRL real estate game. Three of the big ones i've seen have been (cityDAO)[https://twitter.com/CityDao], (Praxis Society)[https://twitter.com/PraxisSociety], and (Kong Land)[https://kong.land/]. Each one is taking a different approach to find a place in the existing legal structures of the world.
+Written by [0xPuffin](https://twitter.com/0xPuffin), Edited by [pinkbones](https://twitter.com/0xpinkbones)
+
+----
+
+Theres recently been a lot of activity around bringing dao ownership styles into the IRL real estate game. Three of the big ones i've seen have been (cityDAO)[https://twitter.com/CityDao], (Praxis Society)[https://twitter.com/PraxisSociety], and (Kong Land)[https://kong.land/]. Each one is taking a different approach to find a place in the existing legal structures of the world.
 
 ### CityDAO 💨
 ![](https://i.imgur.com/HtIxp7n.png)
 This one has been the most talked about. They bought 40 acres of land in Wyoming (a big state in the western USA that has recently passed laws allowing DAOs to operate as legal entities there).
 
-This one is the most regulatory friendly i've seen. They are building a city as the name implies and tapping into [demand](https://twitter.com/garybasin/status/1461096160479825923) in the trad tech world. Theres a couple other web2 style startups working on this kind of thing in other US states like Arizona i believe. We are also seeing [other web3](https://twitter.com/mikedemarais/status/1461549702982295553) people start to branch out into this concept.
+This one is the most regulatory friendly i've seen. As the name implies, they are building a city, and tapping into [demand](https://twitter.com/garybasin/status/1461096160479825923) in the trad tech world. Theres a couple other web2 style startups working on this kind of thing in other US states like Arizona i believe. We are also seeing [other web3](https://twitter.com/mikedemarais/status/1461549702982295553) people start to branch out into this concept.
 
 They have  a NFT you can buy [here](https://opensea.io/collection/cdao). It represents your place in line to bid on purchasing the NFTs of land they are supposed to be releasing later this quarter.
 
