@@ -26,7 +26,7 @@ A chip fab is a big undertaking (to the price of billions and usually built over
 
 Currently  you can buy their [$CITIZEN](https://www.dextools.io/app/ether/pair-explorer/0xf5d90ce04151979d0a7c8eaced8ed1419e190477) token and redeem them 1:1 if you'd like to  be  a citizen of KongLand. 
 
-They also have KongCash (pictured above) which is a physical flexible pcb board that you can redeem for ETH after a certain date. In effect it operates like a traditional currency on the gold or sivler  standard but its ETH backed instead.
+They also have KongCash (pictured above) which is a physical flexible pcb board that you can redeem for ETH after a certain date. In effect it operates like a traditional currency on the gold or silver standard but its ETH backed instead.
 
 ___
 Theres more and more of these schemes poping up like [Prospera](https://en.wikipedia.org/wiki/Pr%C3%B3spera) in Honduras (another Silicon Valley funded SEZ style one but they dont have anything like a token yet afaik) and The state of Nevada, USA which recently declared that [companies can buy up land and form their own county level government](https://www.bbc.com/news/world-us-canada-56409924).
