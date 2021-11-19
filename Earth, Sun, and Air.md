@@ -3,7 +3,7 @@ Written by [0xPuffin](https://twitter.com/0xPuffin), Edited by [pinkbones](https
 
 ----
 
-Theres recently been a lot of activity around bringing dao ownership styles into the IRL real estate game. Three of the big ones i've seen have been (cityDAO)[https://twitter.com/CityDao], (Praxis Society)[https://twitter.com/PraxisSociety], and (Kong Land)[https://kong.land/]. Each one is taking a different approach to find a place in the existing legal structures of the world.
+Theres recently been a lot of activity around bringing dao ownership styles into the IRL real estate game. Three of the big ones i've seen have been [cityDAO](https://twitter.com/CityDao), [Praxis Society](https://twitter.com/PraxisSociety), and [Kong Land](https://kong.land/). Each one is taking a different approach to find a place in the existing legal structures of the world.
 
 ### CityDAO 💨
 ![](https://i.imgur.com/HtIxp7n.png)
@@ -37,7 +37,7 @@ Theres more and more of these schemes poping up like [Prospera](https://en.wikip
 
 The main framework underlying all of these to different degrees seems to be ```pay a existing sovereign to borrow some of their legitimacy```. This concept was outlined 20+ years ago in [_The Sovereign Individual_](https://www.lopp.net/pdf/The%20Sovereign%20Individual.pdf). 
 
-I've applied to basically all of these in some various capacity and believe that at the very least anyone whose made money this bullrun should try and hedge into at least one or buy a second citizenship in a existing state if you dont have a few already (read _The Soverign Individual_ if you dont understand why this is important). If not already occupied by other projects this is what i would be working on. Decentralizing finance is a  great place to start but the future seems much darker until sovereign power, production capacity, and humanity itself are decentralized.
+I've applied to basically all of these in some various capacities and believe that at the very least anyone who has made money this bullrun should try and hedge into at least one or buy a second citizenship in a existing state if you dont have a few already (read _The Soverign Individual_ if you dont understand why this is important). If not already occupied by other projects this is what i would be working on. Decentralizing finance is a  great place to start but the future seems much darker until sovereign power, production capacity, and humanity itself are decentralized.
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Spacecolony3edit.jpeg/1920px-Spacecolony3edit.jpeg)
 
 This article was named to represent the main styles of vibes these places have so far and the one thats missing, water. I wonder  how long it will be until we see a dao pick up the [seasteading](https://www.freedomhaven.org/) flag or later even spacesteading. Awareness of the potental in sovereign states is [growing](https://twitter.com/scupytrooples/status/1461595190393593859?s=20).
