@@ -20,7 +20,7 @@ Praxis doesnt have a token or anything you can buy yet (unless your a big accred
 
 ### KongLand⛰
 ![Kong Cash](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fandrewhy.de%2Fwp-content%2Fuploads%2F2019%2F12%2Fkong-cash-launch.jpg&f=1&nofb=1)
-KongLand is planned to be based in El Salvador. They are headed by a multi exit techie who has focused a lot on physical products like IOT and is bringing that knowledge base to bare with Kong. The goal is to not only setup a physical location that kong [CITIZENs](https://kong.land/) can go to in El Salvador but also build a chip fab. 
+KongLand is planned to be based in El Salvador. They are headed by a multi exit techie who has focused a lot on physical products like IOT and is bringing that knowledge base to bear with Kong. The goal is to not only setup a physical location that kong [CITIZENs](https://kong.land/) can go to in El Salvador but also build a chip fab. 
 
 A chip fab is a big undertaking (to the price of billions and usually built over the course of years). Why is a chip fab worth building? To be a soveign entity one has to be able to create munitions for the upcoming [hash wars](https://twitter.com/JasonPLowery/status/1460232592222048260?s=20) without relying on foreign industry.
 
