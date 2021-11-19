@@ -1,5 +1,5 @@
 # Earth, Sun, and Air
-Written by [0xPuffin](https://twitter.com/0xPuffin), Edited by [pinkbones](https://twitter.com/0xpinkbones)
+Written by [0xPuffin](https://twitter.com/0xPuffin), Edited by [Pinkbones](https://twitter.com/0xpinkbones)
 
 ----
 
