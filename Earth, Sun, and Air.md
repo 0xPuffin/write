@@ -16,7 +16,7 @@ Praxis on the other hand is proposing to build a sort of classical period meets 
 
 Currently they are in talks with multiple different governemnts and the plan seems to be to create a SEZ(Special Economic Zone) within one of the decaying old world states and build a paradise of classicalism.
 
-Praxis doesnt have a token or anything you can buy yet (unless your a big accredited investor looking to lead a round maybe). What the do have is an accounting of "praxis points" which you can earn from things like posting memes, videos of you working out, and throwing out your evil seed oils.
+Praxis doesnt have a token or anything you can buy yet (unless you're a big accredited investor looking to lead a round maybe). What the do have is an accounting of "praxis points" which you can earn from things like posting memes, videos of you working out, and throwing out your evil seed oils.
 
 ### KongLand⛰
 ![Kong Cash](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fandrewhy.de%2Fwp-content%2Fuploads%2F2019%2F12%2Fkong-cash-launch.jpg&f=1&nofb=1)
