@@ -3,7 +3,7 @@ Written by [0xPuffin](https://twitter.com/0xPuffin), Edited by [Pinkbones](https
 
 ----
 
-Theres recently been a lot of activity around bringing dao ownership styles into the IRL real estate game. Three of the big ones i've seen have been [cityDAO](https://twitter.com/CityDao), [Praxis Society](https://twitter.com/PraxisSociety), and [Kong Land](https://kong.land/). Each one is taking a different approach to find a place in the existing legal structures of the world.
+There's recently been a lot of activity around bringing dao ownership styles into the IRL real estate game. Three of the big ones i've seen are [cityDAO](https://twitter.com/CityDao), [Praxis Society](https://twitter.com/PraxisSociety), and [Kong Land](https://kong.land/). Each one is taking a different approach to find a place in the existing legal structures of the world.
 
 ### CityDAO 💨
 ![](https://i.imgur.com/HtIxp7n.png)
