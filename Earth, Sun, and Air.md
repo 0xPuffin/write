@@ -11,6 +11,7 @@ They have  a NFT you can buy [here](https://opensea.io/collection/cdao). It repr
 
 ### Praxis Society ☀️
 ![](https://i.imgur.com/yQYfiC9.png)
+
 Praxis on the other hand is proposing to build a sort of classical period meets transhumanism(?) somewhere in the mediterranean. It includes a lot of big names from the twitter aesthetics community like [SolBrah](https://twitter.com/SolBrah). 
 
 Currently they are in talks with multiple different governemnts and the plan seems to be to create a SEZ(Special Economic Zone) within one of the decaying old world states and build a paradise of classicalism.
